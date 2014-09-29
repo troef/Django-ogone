@@ -8,5 +8,5 @@ try:
     __ALL__ = (Ogone, OgoneDirectLink)
 except ImportError:
     pass
-except:
-    pass
+#except:
+#    pass
